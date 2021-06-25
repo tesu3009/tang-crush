@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Hi bé !',
+    introTitle: 'Hi !',
     introDesc: `Trái đất vốn lạ thường
     
     Mà sao em cứ đi nhầm đường
@@ -20,3 +20,4 @@ const CONFIG = {
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com/tesu3009'
 }
+xã Phú
